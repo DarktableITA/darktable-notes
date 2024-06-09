@@ -9,12 +9,12 @@ I seguenti appunti sono stati concordati con il team della documentazione di dt
 - border = bordo
 - brightness = luminosità (brillanza)
 - brilliance = brillantezza
-- cancel = 
+- cancel = annulla
 - chroma = cromaticità (croma)
 - collection = raccolta
 - color checker = scheda colori
 - color picker = selettore colore
-- colorfulness = colorazione
+- colorfulness = vivacità colore
 - crop factor = fattore di taglio / fattore di ritaglio
 - cursor = selettore scorrevole (per comandi)
 - cursor = cursore (per mouse)
@@ -22,14 +22,15 @@ I seguenti appunti sono stati concordati con il team della documentazione di dt
 - display-referred = riferito allo schermo
 - edge = margine
 - feather = sfumatura
-- flip = rifletti
+- flip = capovolgi
 - gain = guadagno
-- highlights - alte luci
+- highlights = alte luci
 - hue = tonalità (tinta)
 - lightness = chiarezza
 - liquify = fluidifica
 - look up table = tabella di ricerca
 - luminance = luminanza
+- luma = luma
 - midtones = mezzi toni
 - offset = compensazione, spostamento
 - scene-referred = riferito alla scena
