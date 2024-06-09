@@ -7,9 +7,10 @@ I seguenti appunti sono stati concordati con il team della documentazione di dt
 - backlight = controluce
 - bias = compensazione
 - border = bordo
-- brightness = luminosità
+- brightness = luminosità (brillanza)
 - brilliance = brillantezza
-- chroma = cromaticità
+- cancel = 
+- chroma = cromaticità (croma)
 - collection = raccolta
 - color checker = scheda colori
 - color picker = selettore colore
@@ -22,8 +23,9 @@ I seguenti appunti sono stati concordati con il team della documentazione di dt
 - edge = margine
 - feather = sfumatura
 - flip = rifletti
+- gain = guadagno
 - highlights - alte luci
-- hue = tonalità
+- hue = tonalità (tinta)
 - lightness = chiarezza
 - liquify = fluidifica
 - look up table = tabella di ricerca
@@ -32,6 +34,8 @@ I seguenti appunti sono stati concordati con il team della documentazione di dt
 - offset = compensazione, spostamento
 - scene-referred = riferito alla scena
 - show = mostra
+- slope = calo
+- success = riuscito
 - succesfully = correttamente
 - threshold = soglia
 - timeline = linea temporale
