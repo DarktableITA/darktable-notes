@@ -29,9 +29,9 @@ I conflitti possono comunque verificarsi, ed è bene ricordare che vanno gestiti
 
 Quindi, **prima di ogni sessione** di traduzione, accertarsi che:
 
-    - si sia nel branch corretto (`git switch trad-ita-x.x.x`)
-    - non ci siano modifiche locali (con `git status`)
-    - che si abbia l'ultima versione disponibile (con `git pull`)
+- si sia nel branch corretto (`git switch trad-ita-x.x.x`)
+- non ci siano modifiche locali (con `git status`)
+- che si abbia l'ultima versione disponibile (con `git pull`)
 
 Quindi si comincia a tradurre e quando la sessione è finita si consiglia di non attendere oltre per committare. 
 
